@@ -1,4 +1,4 @@
-![logo](https://github.com/Noobcoder2042/Noobcoder2042/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo]()
 # 💫 About Me:
 <br>🌱 I’m currently learning  JAVA , HTML , CSS , JAVASCRIPT , REACT.JS<br>💬 Ask me about REACT<br>⚡ Fun fact I THINK I M FUNNY😎
 
