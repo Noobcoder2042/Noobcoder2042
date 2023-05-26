@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1bcQHYG1nAxCEsn0BmKxcT8u0hRulGq5-/view?usp=share_link)
+
 # 💫 About Me:
 <br>🌱 I’m currently learning  JAVA , HTML , CSS , JAVASCRIPT , REACT.JS<br>💬 Ask me about REACT<br>⚡ Fun fact I THINK I M FUNNY😎
 
